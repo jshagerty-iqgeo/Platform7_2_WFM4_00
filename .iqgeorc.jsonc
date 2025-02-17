@@ -40,16 +40,23 @@
             "version": "3.2"
         },
         {
+            "name": "comms_dev_db",
+            "devOnly": true,
+            "version": "3.2"
+        },
+        {
             "name": "workflow_manager",
             "version": "4.0"
         },
         {
             "name": "groups",
             "version": "1.0"
+        },
+        {
+            "name": "comsof",
+            "version": "1.4"
         }
-
     ],
-
     // (relative) path of files to exclude from pulling and updating
     // e.g. [".devcontainer/remote_host"]
     "exclude_file_paths": [],
